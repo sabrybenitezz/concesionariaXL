@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\DTOs",
+    "\\Mapping",
+    "\\Models",
+    "\\Repositories",
+    "\\Validations"
+  ],
+  "SelectedNode": "\\Models\\Vehiculo.cs",
+  "PreviewInSolutionExplorer": false
+}
